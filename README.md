@@ -1,6 +1,6 @@
 # Data_Cleaning_Exercise
 
-Please refer to `Millennium_Data_Cleaning_Exercise.pdf` for the detailed analysis and report.
+Please refer to `Data_Analysis_Report_Cheng_Xizhe.pdf` for the detailed analysis and report.
 
 Data cleaning is done in Python with extensive usage of Pandas, the jupyter notebook is included with the name `data_cleaning.ipynb`.
 
